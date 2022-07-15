@@ -1,10 +1,11 @@
 ### Longest-common-prefix
+
 var LCP = function (str)  {
     if (str.length === 0) {
-         return " "
+         return "  "
      }
      if (str.length === 1) {
-        str[0]
+       return str[0]
      }
 
 
