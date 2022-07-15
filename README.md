@@ -28,4 +28,4 @@ var LCP = function (str)  {
         
 LCP (["flower" , "flow" , "flight"])  //input
 
-fl  ///output
+ fl  ///output
