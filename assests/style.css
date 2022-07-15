@@ -1,0 +1,31 @@
+.main{ 
+    width: 800px;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+     margin: 0 0 0 35%; 
+}
+h1{
+  text-transform: capitalize;
+}
+input{
+    width: 400px;
+    height: 35px;
+    border-radius: 8px;
+    border: 2px solid rgb(21, 21, 21);
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.795);
+}
+input[type="submit"]{
+    height: 50px;
+    font-size: 30px;
+    width: 410px;
+    background-color: rgb(14, 113, 14);
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+}
+input[type="submit"]:hover{
+    background-color: rgb(10, 170, 10);
+}
